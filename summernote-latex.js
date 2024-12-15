@@ -59,7 +59,7 @@
                     '<div class="modal-body">' +
                     '<textarea id="latexInput" class="form-control" rows="4" placeholder="Enter your LaTeX equation"></textarea>' +
                     '<hr>' +
-                    '<h6>Vorschau:</h6>' +
+                    '<h6>Preview:</h6>' +
                     '<div id="latexPreview" style="border: 1px solid #ddd; padding: 10px; background-color: #f9f9f9;"></div>' +
                     '</div>' +
                     '<div class="modal-footer">' +
